@@ -1,3 +1,4 @@
-HOASON:sv.hoason69.top:31744:0 ,
+HOASON SV2:game2.hoason69.top:31744:0
+HOASON SV1:sv.hoason69.top:31744:0 ,
 ANHEMVUIVE:36.50.134.101:19129:0 ,
 test:160.22.161.7:19129:0 ,
